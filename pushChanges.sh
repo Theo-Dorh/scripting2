@@ -7,6 +7,6 @@ git commit -m "$commitMessage"
 git pull
 git push -u origin main
 
-Your changes have been successfully pushed to your remote repository.
-All the best!
+echo "Your changes have been successfully pushed to your remote repository.
+All the best!"
 
